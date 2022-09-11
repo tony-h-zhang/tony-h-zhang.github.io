@@ -2,7 +2,7 @@
     {
         "title": "Sparse Tensor Accelerators: Abstraction and Modeling",
         "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
-        "conference": "ACM/IEEE International Symposium on Computer Architecture (ISCA)}, June 2021",
+        "conference": "ACM/IEEE International Symposium on Computer Architecture (ISCA), June 2021",
         "extlink": "http://accelergy.mit.edu/sparse_tutorial.html"
     },
     {
@@ -14,13 +14,13 @@
     {
         "title": "Tools for Evaluating Deep Neural Network Accelerator Designs",
         "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, April 2020",
+        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2020",
         "extlink": "http://accelergy.mit.edu/tutorial.html"
     },
         {
         "title": "Tools for Evaluating Deep Neural Network Accelerator Designs",
         "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO)}, Oct. 2019",
+        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct. 2019",
         "extlink": "http://accelergy.mit.edu/tutorial.html"
     }
 ]
