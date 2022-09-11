@@ -28,9 +28,36 @@
         <div class="row" id="services">
             <div class="col-md-12">
                 <div class="section_header">Services</div>
-                <div class="subsec_header">Editing</div>
+                <!-- <div class="subsec_header">Editing</div> -->
+                
+                <div class="subsec_header">Paper Reviews</div>
 
-                <div class="subsec_header">Program Committees</div>
+                {% for pr in service_prs %}
+                <div class="experience">
+                    <div class="exp_title">
+                        {{pr.title}}
+                    </div>
+                    <div class="exp_date">
+                        {{pr.date}}
+                    </div>
+                </div>
+                {%- endfor %}
+                
+
+                <div class="subsec_header">Student Organizations</div>
+
+                {% for org in service_student_orgs %}
+                <div class="experience">
+                    <div class="exp_title">
+                        {{org.title}}
+                    </div>
+                    <div class="exp_date">
+                        {{org.date}}
+                    </div>
+                </div>
+                {%- endfor %}            
+
+<!--                 <div class="subsec_header">Program Committees</div>
 
                 {% for pc in service_pcs %}
                 <div class="experience">
@@ -82,7 +109,8 @@
                     </div>
                     {%- endif %}
                 </div>
-                {%- endfor %}
+                {%- endfor %} -->
+            
             </div>
         </div>
 

@@ -8,8 +8,8 @@ def main():
         phd_students = json.load(f)
     with open('assets/db/phd_collaborators.json', 'r') as f:
         phd_collaborators = json.load(f)
-    with open('assets/db/undergrad_students.json', 'r') as f:
-        undergrad_students = json.load(f)
+    with open('assets/db/ms_undergrad_students.json', 'r') as f:
+        ms_undergrad_students = json.load(f)
     with open('assets/db/paper.json', 'r') as f:
         papers = json.load(f)
     with open('assets/db/patent.json', 'r') as f:
@@ -36,6 +36,10 @@ def main():
         service_ocs = json.load(f)
     with open('assets/db/service_journal.json', 'r') as f:
         service_journals = json.load(f)
+    with open('assets/db/service_pr.json', 'r') as f:
+        service_prs = json.load(f)
+    with open('assets/db/service_student_org.json', 'r') as f:
+        service_student_orgs = json.load(f)
 
     env = Environment(
         loader=FileSystemLoader('assets/templates'),
@@ -52,10 +56,13 @@ def main():
         softwares=softwares,
         teaching=teaching,
         news=news,
+        ms_undergrad_students=ms_undergrad_students,
         service_pcs=service_pcs,
         service_epcs=service_epcs,
         service_ocs=service_ocs,
         service_journals=service_journals,
+        service_prs=service_prs,
+        service_student_orgs=service_student_orgs,
         page='index')
 
     with open('index.html', 'w') as f:
@@ -80,14 +87,14 @@ def main():
         f.write(rendered)
 
     #students.html
-    # template = env.get_template('template_students.html')
-    # rendered = template.render(
-    #     phd_students=phd_students,
-    #     phd_collaborators=phd_collaborators,
-    #     undergrad_students=undergrad_students,
-    #     page='students')
-    # with open('students.html', 'w') as f:
-    #     f.write(rendered)
+    template = env.get_template('template_students.html')
+    rendered = template.render(
+        phd_students=phd_students,
+        phd_collaborators=phd_collaborators,
+        ms_undergrad_students=ms_undergrad_students,
+        page='mentorship')
+    with open('students.html', 'w') as f:
+        f.write(rendered)
 
     #teaching.html
     template = env.get_template('template_teaching.html')
@@ -105,6 +112,8 @@ def main():
         service_epcs=service_epcs,
         service_ocs=service_ocs,
         service_journals=service_journals,
+        service_prs=service_prs,
+        service_student_orgs=service_student_orgs,
         page='service')
     with open('service.html', 'w') as f:
         f.write(rendered)
@@ -126,33 +135,7 @@ def main():
 
     with open('news.html', 'w') as f:
         f.write(rendered)
-    # Following pages has been merged to index.html
 
-    # # award.html
-    # template = env.get_template('template_award.html')
-    # rendered = template.render(papers=papers, tutorials=tutorials, awards=awards, \
-    # educations=educations, jobs=jobs, softwares=softwares, teaching=teaching, \
-    # news=news,\
-    # service_pcs=service_pcs, service_ocs=service_ocs, service_journals=service_journals)
-    # with open('award.html', 'w') as f:
-    # f.write(rendered)
-
-    # #software.html
-    # template = env.get_template('template_software.html')
-    # rendered = template.render(
-    #     papers=papers,
-    #     tutorials=tutorials,
-    #     awards=awards,
-    #     educations=educations,
-    #     jobs=jobs,
-    #     softwares=softwares,
-    #     teaching=teaching,
-    #     news=news,
-    #     service_pcs=service_pcs,
-    #     service_ocs=service_ocs,
-    #     service_journals=service_journals)
-    # with open('software.html', 'w') as f:
-    #     f.write(rendered)
 
 
 if __name__ == '__main__':

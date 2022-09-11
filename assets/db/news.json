@@ -1,14 +1,29 @@
 [
     {
-      "title": "Aug., 2022: Sparseloop got three artifact badges"
+      "title": "July, 2022: Paper on Sparseloop accepted to MICRO 2022"
     },
     {
-      "title": "July, 2022: Sparseloop accepted at MICRO 2022"
+      "title": "July, 2021: Tutorial on sparse tensor accelerator abstraction and modeling at ISCA 2021"
     },
     {
-      "title": "July, 2021: ISCA2021 (virtual) on sparse tensor accelerator abstraction and modeling"
+      "title": "March, 2021: Paper on energy-focused sparse modeling accepted to ISPASS 2021"
     },
     {
-      "title": "March, 2021: Papers on sparse modeling and heterogeneous systems modeling accepted to ISPASS 2021"
+      "title": "March, 2021: Paper on heterogeneous system modeling accepted to ISPASS 2021"
+    },
+    {
+      "title": "June, 2020: Tutorial on Timeloop/Accelergy at ISCA 2020"
+    },
+    {
+      "title": "Nov, 2019: Paper Accelergy presented at ICCAD 2019"
+    },
+    {
+      "title": "Nov, 2019: Paper Accelergy presented at ICCAD 2019"
+    },
+    {
+      "title": "Oct, 2019: Tutorial on Timeloop/Accelergy at MICRO 2019"
+    },
+    {
+      "title": "June, 2019: Paper Accelergy accepted to ICCAD 2019"
     }
 ]
