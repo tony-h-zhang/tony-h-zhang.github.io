@@ -1,0 +1,38 @@
+[
+    {
+	    "title": "Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling",
+        "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
+        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2022",
+        "pdf": "https://arxiv.org/abs/2205.05826"
+    },
+    {
+        "title": "Architecture-Level Energy Estimation for Heterogeneous Computing Systems",
+        "author": "Francis Wang, Yannan Nellie Wu, Matthew Woicik, Vivienne Sze, Joel S. Emer",
+        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), March 2021",
+        "pdf": "https://ieeexplore.ieee.org/document/9408176"
+    },
+    {
+        "title": "Sparseloop: An Analytical, Energy-Focused Design Space Exploration Methodology for Sparse Tensor Accelerators",
+        "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
+        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), March 2021",
+        "pdf": "https://ieeexplore.ieee.org/document/9408213"
+    },
+    {
+        "title": "An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs",
+        "author": "Yannan Nellie Wu, Vivienne Sze, Joel S. Emer",
+        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2020",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9238599"
+    },
+    {
+        "title": "A Systematic Approach for Architecture-Level Energy Estimation of Accelerator Designs",
+        "author": "Yannan Nellie Wu",
+        "conference": "Master Thesis, MIT, Feb. 2020",
+        "pdf": "https://dspace.mit.edu/handle/1721.1/130413"
+    },
+    {
+        "title": "Accelergy: An Architecture-Level Energy Estimation Methodology for Accelerator Designs",
+        "author": "Yannan Nellie Wu, Joel S. Emer, Vivienne Sze",
+        "conference": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 2019",
+        "pdf": "https://ieeexplore.ieee.org/document/8942149?arnumber=8942149"
+    }
+]
