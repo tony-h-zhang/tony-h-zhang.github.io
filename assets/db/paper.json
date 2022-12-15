@@ -1,6 +1,6 @@
 [
     {
-	    "title": "Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling",
+        "title": "Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling",
         "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
         "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2022",
         "pdf": "https://arxiv.org/abs/2205.05826"
@@ -34,5 +34,16 @@
         "author": "Yannan Nellie Wu, Joel S. Emer, Vivienne Sze",
         "conference": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 2019",
         "pdf": "https://ieeexplore.ieee.org/document/8942149?arnumber=8942149"
+    },
+    {
+	 "title": "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity",
+        "author": "Yannan Nellie Wu, Po-An Tsai, Saurav Muralidharan, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
+        "conference": "Under submission"
+    },
+    {
+        "title": "LoopTree: Enablilng Exploration of Fused-Layer Dataflow Accelerators",
+        "author": "Michael Gilbert, Yannan Nellie Wu, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
+        "conference": "Under submission"
     }
+
 ]
