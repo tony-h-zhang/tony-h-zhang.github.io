@@ -1,9 +1,27 @@
 [
     {
+        "title": "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity",
+        "author": "Yannan Nellie Wu, Po-An Tsai, Saurav Muralidharan, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
+        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2023",
+        "pdf": "https://arxiv.org/abs/2305.12718"
+    },
+    {
+        "title": "Accelerating Sparse Tensor Algebra by Overbooking Buffer Occupancy",
+        "author": "Fisher Zi Yue Xue, Yannan Nellie Wu, Joel S. Emer, Vivienne Sze",
+        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2023",
+        "pdf": ""
+    },
+    {
+        "title": "LoopTree: Enablilng Exploration of Fused-Layer Dataflow Accelerators",
+        "author": "Michael Gilbert, Yannan Nellie Wu, Angshuman Parashar, Joel S. Emer, Vivienne Sze",
+        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2023.",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/10158176"
+    },
+    {
         "title": "Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling",
         "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
         "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2022",
-        "pdf": "https://arxiv.org/abs/2205.05826"
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9923807"
     },
     {
         "title": "Architecture-Level Energy Estimation for Heterogeneous Computing Systems",
@@ -36,7 +54,7 @@
         "pdf": "https://ieeexplore.ieee.org/document/8942149?arnumber=8942149"
     },
     {
-	 "title": "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity",
+     "title": "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity",
         "author": "Yannan Nellie Wu, Po-An Tsai, Saurav Muralidharan, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
         "conference": "Under submission"
     },
