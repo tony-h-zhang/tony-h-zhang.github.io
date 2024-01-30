@@ -1,57 +1,64 @@
 [
+
     {
-        "title": "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity",
-        "author": "Yannan Nellie Wu, Po-An Tsai, Saurav Muralidharan, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2023",
-        "pdf": "https://arxiv.org/abs/2305.12718"
+        "title": "A High-Power Non-Isolating RF Power Combining Network based on Transmission Lines",
+        "author": "Haoquan Zhang, Grace Cassidy, Alexander Jurkov, Ky Luu, Aaron Radomski, David J. Perreault",
+        "conference": "IEEE Journal of Emerging and Selected Topics in Industrial Electronics (JESTIE), Nov. 2023",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/10304262"
     },
     {
-        "title": "Accelerating Sparse Tensor Algebra by Overbooking Buffer Occupancy",
-        "author": "Fisher Zi Yue Xue, Yannan Nellie Wu, Joel S. Emer, Vivienne Sze",
-        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2023",
-        "pdf": ""
+        "title": "Techniques for Efficient Wide-Range Radio-Frequency Power Generation System",
+        "author": "Haoquan Zhang",
+        "conference": "PhD Thesis, MIT, Sep. 2022",
+        "pdf": "https://dspace.mit.edu/handle/1721.1/147549"
     },
     {
-        "title": "LoopTree: Enablilng Exploration of Fused-Layer Dataflow Accelerators",
-        "author": "Michael Gilbert, Yannan Nellie Wu, Angshuman Parashar, Joel S. Emer, Vivienne Sze",
-        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2023.",
-        "pdf": "https://ieeexplore.ieee.org/abstract/document/10158176"
+        "title": "Modeling and Design of High-Power Non-Isolating RF Power Combiners based on Transmission Lines",
+        "author": "Haoquan Zhang, Grace Cassidy, Alexander Jurkov, Ky Luu, Vladimir Kozitsky, Aaron Radomski, David J. Perreault",
+        "conference": "IEEE Applied Power Electronics Conference and Exposition (APEC), Mar. 2022",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9773770"
     },
     {
-        "title": "Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling",
-        "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE/ACM International Symposium on Microarchitecture (MICRO),  October 2022",
-        "pdf": "https://ieeexplore.ieee.org/abstract/document/9923807"
+        "title": "Comparison of Radio-Frequency Power Architectures for Plasma Generation",
+        "author": "Anas Al Bastami, Haoquan Zhang, Alexander Jurkov, Aaron Radomski, David J. Perreault",
+        "conference": "IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL), Nov. 2020",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9265700"
     },
     {
-        "title": "Architecture-Level Energy Estimation for Heterogeneous Computing Systems",
-        "author": "Francis Wang, Yannan Nellie Wu, Matthew Woicik, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), March 2021",
-        "pdf": "https://ieeexplore.ieee.org/document/9408176"
+        "title": "Multi-Inverter Discrete Backoff: A High-Efficiency, Wide-Range RF Power Generation Architecture",
+        "author": "Haoquan Zhang, Anas Al Bastami, Alexander S. Jurkov, Aaron Radomski, David J Perreault",
+        "conference": "IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL), Nov. 2020.",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9265702"
     },
     {
-        "title": "Sparseloop: An Analytical, Energy-Focused Design Space Exploration Methodology for Sparse Tensor Accelerators",
-        "author": "Yannan Nellie Wu, Po-An Tsai, Angshuman Parashar, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), March 2021",
-        "pdf": "https://ieeexplore.ieee.org/document/9408213"
+        "title": "A CMOS-Based Energy Harvesting Approach for Laterally-Arrayed Multi-Bandgap Concentrated Photovoltaic Systems",
+        "author": "Haoquan Zhang, Konstantin Martynov, David J. Perreault",
+        "conference": "IEEE Transactions on Power Electronics (TPEL), Jan 2020",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/8974414"
     },
     {
-        "title": "An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs",
-        "author": "Yannan Nellie Wu, Vivienne Sze, Joel S. Emer",
-        "conference": "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2020",
-        "pdf": "https://ieeexplore.ieee.org/abstract/document/9238599"
+        "title": "A CMOS-Based Energy Harvesting Approach for Laterally-Arrayed Multi-Bandgap Concentrated Photovoltaic Systems",
+        "author": "Haoquan Zhang, Konstantin Martynov, Duanhui Li, David J. Perreault",
+        "conference": "IEEE Energy Conversion Congress and Exposition (ECCE), Sep. 2019",
+        "pdf": "https://ieeexplore.ieee.org/document/8912883"
     },
     {
-        "title": "A Systematic Approach for Architecture-Level Energy Estimation of Accelerator Designs",
-        "author": "Yannan Nellie Wu",
-        "conference": "Master Thesis, MIT, Feb. 2020",
-        "pdf": "https://dspace.mit.edu/handle/1721.1/130413"
+        "title": "A Power Management Approach for Laterally-Arrayed Multi-Bandgap Concentrated Photovoltaic Systems",
+        "author": "Haoquan Zhang, Konstantin Martynov, Duanhui Li, Ruitao Wen, Jurgen Michel, David J. Perreault",
+        "conference": "46th Photovoltaic Specialists Conference (PVSC), Jun. 2019",
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/8981363"
     },
     {
-        "title": "Accelergy: An Architecture-Level Energy Estimation Methodology for Accelerator Designs",
-        "author": "Yannan Nellie Wu, Joel S. Emer, Vivienne Sze",
-        "conference": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 2019",
-        "pdf": "https://ieeexplore.ieee.org/document/8942149?arnumber=8942149"
+        "title": "An Integrated Multi-Input Single-Output Buck Converter for Laterally-Arrayed Multi-Bandgap Solar Cells",
+        "author": "Haoquan Zhang",
+        "conference": "Master Thesis, MIT, Feb. 2019",
+        "pdf": "https://dspace.mit.edu/handle/1721.1/121745"
+    },
+    {
+        "title": "Spectrum splitting micro-concentrator assembly for laterally-arrayed multi-junction photovoltaic module",
+        "author": "Duanhui Li, Rui-Tao Wen, Rushabh D Shah, Xueying Zhao, Haoquan Zhang, Eugene Fitzgerald, David J Perreault, Jurgen Michel, Juejun Hu, Tian Gu",
+        "conference": "CLEO: Applications and Technology, May 2018",
+        "pdf": "https://opg.optica.org/abstract.cfm?uri=cleo_at-2018-AW3O.3"
     }
 
 ]

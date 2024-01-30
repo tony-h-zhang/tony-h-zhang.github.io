@@ -1,27 +1,30 @@
 [
     {
-        "title": "Transactions on Computers",
-        "date": "2023"
+        "title": "IEEE Transactions on Power Electronics (TPEL)",
+        "date": "2019-Current"
     }, 
     {
-        "title": "IEEE Computer Architecture Letters (CAL)",
-        "date": "2022"
+        "title": "IEEE Transactions on Industrial Electronics (TIE)",
+        "date": "2020-Current"
     },   
     {
-        "title": "IEEE Journal of Solid-State Circuits (JSSC)",
-        "date": "2022"
+        "title": "IEEE Journal of Emerging and Selected Topics in Industrial Electronics (JESTIE)",
+        "date": "2021-Current"
+    }, 
+    {
+        "title": "IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)",
+        "date": "2022-Current"
     },
     {
-        "title": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
-        "date": "2022"
+        "title": "IEEE Transactions on Microwave Theory and Techniques (TMTT)",
+        "date": "2022-Current"
     }, 
     {
-        "title": "IEEE Transactions on Very Large Scale Integration Systems (VLSI)",
-        "date": "2022"
-    }, 
+        "title": "IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "date": "2022-Current"
+    },
     {
-        "title": "ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)",
-        "date": "2021"
+        "title": "IEEE Photovoltaic Specialists Conference (PVSC)",
+        "date": "2020-Current"
     }
-    
 ]
