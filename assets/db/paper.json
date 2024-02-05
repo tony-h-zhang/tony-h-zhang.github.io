@@ -1,5 +1,10 @@
 [
-
+    {
+        "title": "Modeling and Analysis of Duty Cycle Mode Voltage Ringings in Wireless Power Transfer Systems",
+        "author": "Haoquan Zhang, Liang Jia, Yanchao Li, Srikanth Lakshmikanthan",
+        "conference": "IEEE Applied Power Electronics Conference and Exposition (APEC), Feb. 2024 (to appear)",
+        "pdf": "assets/pdfs/APEC24.pdf"
+    },
     {
         "title": "A High-Power Non-Isolating RF Power Combining Network based on Transmission Lines",
         "author": "Haoquan Zhang, Grace Cassidy, Alexander Jurkov, Ky Luu, Aaron Radomski, David J. Perreault",
